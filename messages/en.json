@@ -1,0 +1,290 @@
+{
+  "HomePage": {
+    "title": "Welcome to Next.js with Internationalization",
+    "description": "This is a demo of Next.js with next-intl for internationalization.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "AboutPage": {
+    "hello": "Hello {name}!",
+    "title": "About Us",
+    "description": "Learn more about our company and mission.",
+    "content": "We are a company dedicated to building amazing web applications with the latest technologies."
+  },
+
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "theme": "Theme",
+    "signin": "Sign In"
+  },
+  "LanguageSwitcher": {
+    "switchLanguage": "Switch Language",
+    "english": "English",
+    "vietnamese": "Tiếng Việt"
+  },
+  "AuthPage": {
+    "login": "Login",
+    "email": "Email Address",
+    "password": "Password",
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "otp": "OTP Code",
+    "updatePasswordTitle": "Update your password",
+    "fullName": "Full Name",
+    "enterYourEmail": "Enter your email",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset password",
+    "changePassword": "Change password",
+    "referralCode": "Referral Code",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordPlaceholder": "Enter confirm your password",
+    "fullNamePlaceholder": "Enter your full name",
+    "referralCodePlaceholder": "Enter your referral code",
+    "loginError": "Invalid email or password. Please try again.",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "forgetPassword": "Forget Password?",
+    "register": "Register",
+    "registerSuccess": "Registration successful! Please log in.",
+    "registerError": "Registration failed. Please try again.",
+    "loginFailed": "Login failed. Please check your credentials and try again.",
+    "agreeTerms": "I agree to the Terms of Service and Privacy Policy.",
+    "termsTitle": "Terms of Service and Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "termsOfServiceContent": "By using our services, you agree to comply with and accept all the terms and conditions set forth. You commit not to use the service for purposes that violate the law, cause harm, or affect the rights of others. We reserve the right to change, suspend, or terminate the service without prior notice.",
+    "privacyPolicy": "Privacy Policy",
+    "privacyPolicyContent": "We are committed to protecting all personal information you provide, using it only for the purpose of providing and improving our services. Your information will not be shared with third parties except when required by law or with your consent. You have the right to request access, edit, or delete personal information at any time.",
+    "registrationSuccessful": "Registration Successful!",
+    "registrationSuccessfulDescription": "Your account has been created successfully!",
+    "checkYourEmail": "Check Your Email",
+    "emailVerificationSent": "We've sent a verification email to your inbox.",
+    "verificationInstructions": "Please click the verification link in the email to activate your account. Don't forget to check your spam folder if you don't see it.",
+    "gotIt": "Got It",
+    "registrationFailed": "Registration Failed",
+    "registrationError": "Unable to Create Account",
+    "registrationErrorDescription": "We encountered an error while creating your account. Please try again.",
+    "commonErrors": "Common Issues:",
+    "errorEmailExists": "• Email address is already registered",
+    "errorWeakPassword": "• Password doesn't meet requirements",
+    "errorNetworkIssue": "• Network connection problem",
+    "tryAgain": "Try Again",
+    "contactSupport": "Contact Support",
+    "checkYourEmailForResetLink": "Check Your email get ResetLink",
+    "emailNotFoundOrError": "Email not found",
+    "somethingWentWrong": "Something when wrong",
+    "backToLogin": "Back to Login",
+    "passwordResetSuccess": "Password reset thành công",
+    "invalidOrExpiredToken": "Token expire, please get other link via email",
+    "OTPRequired": "OTP required",
+    "confirmRegistration": "Confirm Registration",
+    "confirmRegistrationDescription": "Please confirm your registration details before proceeding.",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "name": "Name",
+    "verifyYourEmail": "Verify Your Email",
+    "checkInboxMessage": "Please check your inbox for the verification email we sent to:",
+    "didNotReceiveEmail": "Didn't receive the email?",
+    "contactSupportMessage": "Please contact the email below for our support:",
+    "supportEmail": "contact@filver.vn",
+    "invalidVerificationLink": "Invalid Verification Link",
+    "verificationLinkMissing": "The verification link is missing or invalid",
+    "checkEmailAndRetry": "Please check your email and click on the correct verification link",
+    "backToRegistration": "Back to Registration",
+    "verificationSuccessful": "Email Verified Successfully",
+    "accountNowActive": "Your email has been verified successfully! Your account is now active",
+    "changePasswordSuccessTitle": "Password Changed Successfully",
+    "changePasswordSuccessDescription": "Your password has been updated successfully."
+  },
+  "Setup2FA": {
+    "title": "Two-Factor Authentication",
+    "description": "Please enter your two-factor authentication code to continue.",
+    "codeRequired": "Please enter your 2FA code",
+    "codeLength": "Code must be exactly 6 characters",
+    "codeNumeric": "Code must contain only numbers",
+    "otpInvalid": "OTP invalid",
+    "verificationFailed": "Verification failed",
+    "emailVerificationFailed": "Email Verification Failed",
+    "verificationExpired": "Verification link has expired",
+    "verificationInvalidKey": "Invalid verification link",
+    "verificationAlreadyUsed": "This verification link has already been used",
+    "verificationNetworkError": "Network error occurred during verification",
+    "verificationUnknownError": "An unexpected error occurred during verification",
+    "verificationRetry": "Please request a new verification email or contact support",
+    "verificationRetryButton": "Request New Email",
+    "settingUp": "Setting up...",
+    "enable": "Enable",
+    "verifying": "Verifying...",
+    "verify": "Verify",
+    "loginWithAnotherAccount": "Login with another account",
+    "scanQRCode": "Scan QR Code",
+    "scanDescription": "Open your authenticator app and scan the QR code above. Download",
+    "googleAuthenticator": "Google Authenticator",
+    "downloadForWindows": "for Windows/Android",
+    "downloadForMac": "for Mac/iOS",
+    "or": "or",
+    "manualEntryInstruction": "If you cannot scan the barcode, please enter the secret code manually:",
+    "secretKeyCopied": "Secret key copied to clipboard!",
+    "copyFailed": "Failed to copy to clipboard",
+    "copy": "Copy",
+    "copied": "Copied!"
+  },
+  "Validation": {
+    "email": {
+      "required": "Email is required",
+      "invalid": "Invalid email address"
+    },
+    "username": {
+      "required": "Username is required",
+      "minLength": "Username must be at least 3 characters"
+    },
+    "password": {
+      "minLength": "Password must be at least 8 characters",
+      "uppercase": "Password must contain at least one uppercase letter",
+      "numeric": "Password must contain at least one numeric character",
+      "required": "Password is required"
+    },
+    "confirmPassword": {
+      "required": "Confirm password is required",
+      "match": "Passwords must match"
+    },
+    "fullName": {
+      "required": "Full name is required"
+    },
+    "agreeTerms": {
+      "required": "You must agree to the terms and conditions"
+    },
+    "turnstile": {
+      "required": "Please complete the security verification"
+    },
+    "otpCode": {
+      "validateLength": "OTP only accept length 6 numbers",
+      "onlyNumber": "OTP only accept number"
+    },
+    "otp": {
+      "required": "OTP code is required"
+    }
+  },
+  "SettingsPage": {
+    "title": "Settings",
+    "description": "Manage your account preferences and settings",
+    "language": {
+      "title": "Language",
+      "description": "Choose your preferred language",
+      "current": "Current language"
+    },
+    "theme": {
+      "title": "Theme",
+      "description": "Choose your preferred color theme",
+      "light": "Light",
+      "dark": "Dark",
+      "current": "Current theme"
+    },
+    "general": {
+      "title": "General Settings",
+      "language": {
+        "title": "Language",
+        "description": "Applied to interface and all notification channels (Email, Telegram, Zalo)",
+        "modalTitle": "Select Language",
+        "vietnamese": "Vietnamese",
+        "english": "English"
+      },
+      "currency": {
+        "title": "Currency Unit",
+        "description": "Used for conversion and display of asset values, transactions, deposits/withdrawals, price alerts and related financial information throughout the system.",
+        "modalTitle": "Select Currency Unit"
+      },
+      "timezone": {
+        "title": "Time Zone",
+        "description": "Display time for activities such as placing orders, transactions, deposits/withdrawals and notifications throughout the system",
+        "modalTitle": "Select Time Zone"
+      },
+      "save": "Save",
+      "cancel": "Cancel"
+    },
+    "security": {
+      "title": "Security Settings",
+      "description": "Manage your account security and authentication settings",
+      "authenticatorApp": {
+        "title": "Authenticator App",
+        "description": "Use Google Authenticator to protect your account and transactions.",
+        "modalTitle": "Authenticator App",
+        "switchLabel": "Enable Google Authenticator App",
+        "noteTitle": "Note",
+        "note1": "To ensure the safety of your assets, withdrawal and redeem functions will be disabled for 24 hours after you turn off the authenticator app verification method.",
+        "note2": "Two security verification methods are required when withdrawing funds and performing other operations. If you only use one verification method, your account will face higher risks.",
+        "enabled": "Enabled",
+        "disabled": "Disabled",
+        "save": "Save"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Use email to protect your transactions and account."
+      },
+      "phone": {
+        "title": "Phone Number",
+        "description": "Use phone number to protect your transactions and account."
+      },
+      "changePassword": {
+        "title": "Change Password",
+        "description": "Change password is used to log into your account.",
+        "modalTitle": "Update your password",
+        "successTitle": "Password Changed Successfully",
+        "successDescription": "Your password has been updated successfully."
+      }
+    },
+    "notification": {
+      "title": "Notification Settings",
+      "description": "Configure your notification preferences and channels",
+      "methods": {
+        "title": "Notification Methods",
+        "description": "Choose methods to receive notifications about transactions, accounts, etc.",
+        "modalTitle": "Register notification methods",
+        "email": "Email",
+        "sms": "SMS"
+      },
+      "content": {
+        "title": "Notification Content",
+        "description": "Choose the content you want to receive notifications for",
+        "modalTitle": "Register notification content",
+        "transaction": "Transaction notifications",
+        "order": "Order match/cancel notifications",
+        "balance": "Balance change notifications"
+      }
+    },
+    "saveChanges": "Save Changes",
+    "settingsSaved": "Settings have been saved successfully",
+    "allSettingsSaved": "All settings are up to date"
+  },
+  "ApiErrors": {
+    "200": "Success",
+    "201": "Created successfully",
+    "202": "Accepted",
+    "400": "Bad request",
+    "401": "Unauthorized",
+    "402": "Payment required",
+    "403": "Forbidden",
+    "404": "Not found",
+    "420": "KYC not completed",
+    "500": "Internal server error",
+    "502": "Bad gateway",
+    "503": "Service unavailable",
+    "504": "Gateway timeout"
+  },
+
+  "Header": {
+    "notificationDropdown": {
+      "transaction": "Transaction",
+      "accountAlert": "Account Alert",
+      "notification": "Notification",
+      "promotion": "Promotion",
+      "noNotificationsYet": "No notifications yet.",
+      "noNotifications": "No notifications",
+      "viewAll": "View all notifications",
+      "loading": "Loading notifications..."
+    }
+  }
+}

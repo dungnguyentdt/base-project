@@ -1,0 +1,79 @@
+.ant-form-item-required {
+  flex-direction: row-reverse;
+}
+
+.ant-form-item-required::before {
+  margin-left: 4px;
+}
+
+.ant-form-item-required::after {
+  width: 0;
+  margin: 0 !important;
+}
+
+.ant-carousel .slick-next,
+.ant-carousel .slick-prev {
+  bottom: 4px !important;
+  top: auto !important;
+}
+
+.ant-carousel .slick-next {
+  inset-inline-end: 130px !important;
+}
+
+.ant-carousel .slick-prev {
+  inset-inline-start: 130px !important;
+}
+
+/* custom style for order panel tabs */
+.order-panel-tabs {
+  width: 100%;
+}
+
+.order-panel-tabs .ant-tabs-nav {
+  margin-bottom: 4px !important;
+}
+
+.order-panel-tabs .ant-tabs-nav-list {
+  width: 100%;
+}
+
+.order-panel-tabs .ant-tabs-tab,
+.order-panel-tabs .ant-tabs-tab-btn {
+  width: 100%;
+  text-align: center;
+  margin: 0px 2px !important;
+  background-color: rgb(245, 245, 245) !important;
+}
+
+.order-panel-tabs .ant-tabs-tab {
+  background-color: white !important;
+}
+/* Ensure consistent height for form inputs */
+.ant-select.ant-select-sm,
+.ant-picker.ant-picker-sm {
+  height: 36px !important;
+}
+
+.ant-select.ant-select-sm .ant-select-selector,
+.ant-picker.ant-picker-sm .ant-picker-input > input {
+  height: 36px !important;
+  line-height: 36px !important;
+}
+
+/* Ensure all form inputs in history components have consistent height */
+.ant-form-item .ant-select,
+.ant-form-item .ant-picker {
+  height: 36px !important;
+}
+
+.ant-form-item .ant-select .ant-select-selector,
+.ant-form-item .ant-picker .ant-picker-input > input {
+  height: 36px !important;
+  line-height: 36px !important;
+}
+
+.notification-sidenav .ant-menu-title-content,
+.notification-sidenav .ant-menu-item-icon {
+  color: black !important;
+}

@@ -1,0 +1,290 @@
+{
+  "HomePage": {
+    "title": "Chào mừng đến với Next.js với Hỗ trợ Đa ngôn ngữ",
+    "description": "Đây là bản demo của Next.js với next-intl cho hỗ trợ đa ngôn ngữ.",
+    "getStarted": "Bắt đầu",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "AboutPage": {
+    "hello": "Xin chào {name}!",
+    "title": "Về Chúng Tôi",
+    "description": "Tìm hiểu thêm về công ty và sứ mệnh của chúng tôi.",
+    "content": "Chúng tôi là một công ty chuyên xây dựng các ứng dụng web tuyệt vời với các công nghệ mới nhất."
+  },
+
+  "Navigation": {
+    "home": "Trang Chủ",
+    "about": "Về Chúng Tôi",
+    "contact": "Liên Hệ",
+    "theme": "Giao Diện",
+    "signin": "Đăng Nhập"
+  },
+  "LanguageSwitcher": {
+    "switchLanguage": "Chuyển Ngôn Ngữ",
+    "english": "Tiếng Anh",
+    "vietnamese": "Tiếng Việt"
+  },
+  "AuthPage": {
+    "login": "Đăng Nhập",
+    "email": "Địa Chỉ Email",
+    "password": "Mật Khẩu",
+    "oldPassword": "Mật Khẩu Cũ",
+    "newPassword": "Mật Khẩu Mới",
+    "confirmPassword": "Xác Nhận Mật Khẩu",
+    "otp": "Mã OTP",
+    "updatePasswordTitle": "Cập Nhật Mật Khẩu",
+    "fullName": "Họ và Tên",
+    "enterYourEmail": "Nhập email của bạn",
+    "forgotPassword": "Quên Mật Khẩu?",
+    "resetPassword": "Đặt Lại Mật Khẩu",
+    "changePassword": "Đổi Mật Khẩu",
+    "referralCode": "Mã Giới Thiệu",
+    "emailPlaceholder": "Nhập email của bạn",
+    "passwordPlaceholder": "Nhập mật khẩu của bạn",
+    "confirmPasswordPlaceholder": "Nhập lại mật khẩu của bạn",
+    "fullNamePlaceholder": "Nhập họ và tên của bạn",
+    "referralCodePlaceholder": "Nhập mã giới thiệu của bạn",
+    "loginError": "Email hoặc mật khẩu không hợp lệ. Vui lòng thử lại.",
+    "dontHaveAccount": "Chưa có tài khoản?",
+    "alreadyHaveAccount": "Đã có tài khoản?",
+    "forgetPassword": "Quên Mật Khẩu?",
+    "register": "Đăng Ký",
+    "registerSuccess": "Đăng ký thành công! Vui lòng đăng nhập.",
+    "registerError": "Đăng ký thất bại. Vui lòng thử lại.",
+    "loginFailed": "Đăng nhập thất bại. Vui lòng kiểm tra thông tin và thử lại.",
+    "agreeTerms": "Tôi đồng ý với Điều khoản Dịch vụ và Chính sách Bảo mật.",
+    "termsTitle": "Điều khoản Dịch vụ và Chính sách Bảo mật",
+    "termsOfService": "Điều khoản Dịch vụ",
+    "termsOfServiceContent": "Bằng việc sử dụng dịch vụ của chúng tôi, bạn đồng ý tuân thủ và chấp nhận tất cả các điều khoản và điều kiện đã được đặt ra. Bạn cam kết không sử dụng dịch vụ cho các mục đích vi phạm pháp luật, gây hại hoặc ảnh hưởng đến quyền lợi của người khác. Chúng tôi có quyền thay đổi, tạm ngưng hoặc chấm dứt dịch vụ mà không cần thông báo trước.",
+    "privacyPolicy": "Chính sách Bảo mật",
+    "privacyPolicyContent": "Chúng tôi cam kết bảo vệ tất cả thông tin cá nhân mà bạn cung cấp, chỉ sử dụng nó cho mục đích cung cấp và cải thiện dịch vụ của chúng tôi. Thông tin của bạn sẽ không được chia sẻ với bên thứ ba trừ khi được yêu cầu bởi pháp luật hoặc với sự đồng ý của bạn. Bạn có quyền yêu cầu truy cập, chỉnh sửa hoặc xóa thông tin cá nhân bất cứ lúc nào.",
+    "registrationSuccessful": "Đăng ký thành công!",
+    "registrationSuccessfulDescription": "Tài khoản của bạn đã được tạo thành công!",
+    "checkYourEmail": "Kiểm tra Email của bạn",
+    "emailVerificationSent": "Chúng tôi đã gửi một email xác nhận đến hộp thư của bạn.",
+    "verificationInstructions": "Vui lòng nhấp vào liên kết xác nhận trong email để kích hoạt tài khoản của bạn. Đừng quên kiểm tra thư mục spam nếu bạn không thấy email.",
+    "gotIt": "Đã hiểu",
+    "registrationFailed": "Đăng ký thất bại",
+    "registrationError": "Không thể tạo tài khoản",
+    "registrationErrorDescription": "Chúng tôi gặp sự cố khi tạo tài khoản của bạn. Vui lòng thử lại.",
+    "commonErrors": "Các vấn đề thường gặp:",
+    "errorEmailExists": "• Địa chỉ email đã được đăng ký",
+    "errorWeakPassword": "• Mật khẩu không đáp ứng yêu cầu",
+    "errorNetworkIssue": "• Vấn đề kết nối mạng",
+    "tryAgain": "Thử lại",
+    "contactSupport": "Liên hệ Hỗ trợ",
+    "checkYourEmailForResetLink": "Kiểm tra email của bạn để nhận liên kết đặt lại",
+    "emailNotFoundOrError": "Không tìm thấy email",
+    "somethingWentWrong": "Đã xảy ra sự cố",
+    "backToLogin": "Quay lại Đăng nhập",
+    "passwordResetSuccess": "Đặt lại mật khẩu thành công",
+    "invalidOrExpiredToken": "Token hết hạn, vui lòng nhận liên kết khác qua email",
+    "OTPRequired": "Yêu cầu OTP",
+    "confirmRegistration": "Xác nhận Đăng ký",
+    "confirmRegistrationDescription": "Vui lòng xác nhận thông tin đăng ký của bạn trước khi tiếp tục.",
+    "confirm": "Xác nhận",
+    "cancel": "Hủy bỏ",
+    "name": "Tên",
+    "verifyYourEmail": "Xác minh Email của bạn",
+    "checkInboxMessage": "Vui lòng kiểm tra hộp thư đến của bạn để nhận email xác minh mà chúng tôi đã gửi đến:",
+    "didNotReceiveEmail": "Không nhận được email?",
+    "contactSupportMessage": "Vui lòng liên hệ email dưới đây để được hỗ trợ:",
+    "supportEmail": "contact@filver.vn",
+    "invalidVerificationLink": "Liên kết xác minh không hợp lệ",
+    "verificationLinkMissing": "Liên kết xác minh bị thiếu hoặc không hợp lệ",
+    "checkEmailAndRetry": "Vui lòng kiểm tra email của bạn và nhấp vào liên kết xác minh đúng",
+    "backToRegistration": "Quay lại Đăng ký",
+    "verificationSuccessful": "Xác minh Email thành công",
+    "accountNowActive": "Email của bạn đã được xác minh thành công! Tài khoản của bạn hiện đã hoạt động",
+    "changePasswordSuccessTitle": "Đổi Mật khẩu thành công",
+    "changePasswordSuccessDescription": "Mật khẩu của bạn đã được cập nhật thành công."
+  },
+  "Setup2FA": {
+    "title": "Xác thực hai yếu tố",
+    "description": "Vui lòng nhập mã xác thực hai yếu tố của bạn để tiếp tục.",
+    "codeRequired": "Vui lòng nhập mã 2FA của bạn",
+    "codeLength": "Mã phải chính xác 6 ký tự",
+    "codeNumeric": "Mã chỉ được chứa số",
+    "otpInvalid": "OTP không hợp lệ",
+    "verificationFailed": "Xác minh thất bại",
+    "emailVerificationFailed": "Xác minh Email thất bại",
+    "verificationExpired": "Liên kết xác minh đã hết hạn",
+    "verificationInvalidKey": "Liên kết xác minh không hợp lệ",
+    "verificationAlreadyUsed": "Liên kết xác minh này đã được sử dụng",
+    "verificationNetworkError": "Đã xảy ra lỗi mạng trong quá trình xác minh",
+    "verificationUnknownError": "Đã xảy ra lỗi không mong muốn trong quá trình xác minh",
+    "verificationRetry": "Vui lòng yêu cầu email xác minh mới hoặc liên hệ hỗ trợ",
+    "verificationRetryButton": "Yêu cầu Email Mới",
+    "settingUp": "Đang thiết lập...",
+    "enable": "Bật",
+    "verifying": "Đang xác minh...",
+    "verify": "Xác minh",
+    "loginWithAnotherAccount": "Đăng nhập bằng tài khoản khác",
+    "scanQRCode": "Quét mã QR",
+    "scanDescription": "Mở ứng dụng xác thực của bạn và quét mã QR ở trên. Tải xuống",
+    "googleAuthenticator": "Google Authenticator",
+    "downloadForWindows": "cho Windows/Android",
+    "downloadForMac": "cho Mac/iOS",
+    "or": "hoặc",
+    "manualEntryInstruction": "Nếu bạn không thể quét mã vạch, vui lòng nhập mã bí mật thủ công:",
+    "secretKeyCopied": "Mã bí mật đã được sao chép vào clipboard!",
+    "copyFailed": "Không thể sao chép vào clipboard",
+    "copy": "Sao chép",
+    "copied": "Đã sao chép!"
+  },
+  "Validation": {
+    "email": {
+      "required": "Email là bắt buộc",
+      "invalid": "Địa chỉ email không hợp lệ"
+    },
+    "username": {
+      "required": "Tên người dùng là bắt buộc",
+      "minLength": "Tên người dùng phải có ít nhất 3 ký tự"
+    },
+    "password": {
+      "minLength": "Mật khẩu phải có ít nhất 8 ký tự",
+      "uppercase": "Mật khẩu phải chứa ít nhất một chữ cái viết hoa",
+      "numeric": "Mật khẩu phải chứa ít nhất một chữ số",
+      "required": "Mật khẩu là bắt buộc"
+    },
+    "confirmPassword": {
+      "required": "Xác nhận mật khẩu là bắt buộc",
+      "match": "Mật khẩu phải khớp"
+    },
+    "fullName": {
+      "required": "Họ và tên là bắt buộc"
+    },
+    "agreeTerms": {
+      "required": "Bạn phải đồng ý với các điều khoản và điều kiện"
+    },
+    "turnstile": {
+      "required": "Vui lòng hoàn thành xác minh bảo mật"
+    },
+    "otpCode": {
+      "validateLength": "OTP chỉ chấp nhận độ dài 6 số",
+      "onlyNumber": "OTP chỉ chấp nhận số"
+    },
+    "otp": {
+      "required": "Mã OTP là bắt buộc"
+    }
+  },
+  "SettingsPage": {
+    "title": "Cài đặt",
+    "description": "Quản lý các tùy chọn và cài đặt tài khoản của bạn",
+    "language": {
+      "title": "Ngôn ngữ",
+      "description": "Chọn ngôn ngữ ưa thích của bạn",
+      "current": "Ngôn ngữ hiện tại"
+    },
+    "theme": {
+      "title": "Giao diện",
+      "description": "Chọn giao diện màu ưa thích của bạn",
+      "light": "Sáng",
+      "dark": "Tối",
+      "current": "Giao diện hiện tại"
+    },
+    "general": {
+      "title": "Cài đặt chung",
+      "language": {
+        "title": "Ngôn ngữ",
+        "description": "Áp dụng cho giao diện và tất cả các kênh thông báo (Email, Telegram, Zalo)",
+        "modalTitle": "Chọn Ngôn ngữ",
+        "vietnamese": "Tiếng Việt",
+        "english": "Tiếng Anh"
+      },
+      "currency": {
+        "title": "Đơn vị tiền tệ",
+        "description": "Được sử dụng để chuyển đổi và hiển thị giá trị tài sản, giao dịch, nạp/rút, cảnh báo giá và thông tin tài chính liên quan trên toàn hệ thống.",
+        "modalTitle": "Select Currency Unit"
+      },
+      "timezone": {
+        "title": "Múi giờ",
+        "description": "Hiển thị thời gian cho các hoạt động như đặt lệnh, giao dịch, nạp/rút và thông báo trên toàn hệ thống",
+        "modalTitle": "Chọn Múi giờ"
+      },
+      "save": "Lưu",
+      "cancel": "Hủy"
+    },
+    "security": {
+      "title": "Cài đặt bảo mật",
+      "description": "Quản lý bảo mật tài khoản và cài đặt xác thực",
+      "authenticatorApp": {
+        "title": "Ứng dụng xác thực",
+        "description": "Sử dụng Google Authenticator để bảo vệ tài khoản và giao dịch của bạn.",
+        "modalTitle": "Ứng dụng xác thực",
+        "switchLabel": "Bật ứng dụng Google Authenticator",
+        "noteTitle": "Lưu ý",
+        "note1": "Để đảm bảo an toàn cho tài sản của bạn, các chức năng rút và đổi sẽ bị vô hiệu hóa trong 24 giờ sau khi bạn tắt phương thức xác minh ứng dụng xác thực.",
+        "note2": "Cần hai phương thức xác minh bảo mật khi rút tiền và thực hiện các thao tác khác. Nếu bạn chỉ sử dụng một phương thức xác minh, tài khoản của bạn sẽ đối mặt với rủi ro cao hơn.",
+        "enabled": "Đã bật",
+        "disabled": "Đã tắt",
+        "save": "Lưu thay đổi"
+      },
+      "email": {
+        "title": "Email",
+        "description": "Sử dụng email để bảo vệ giao dịch và tài khoản của bạn."
+      },
+      "phone": {
+        "title": "Số điện thoại",
+        "description": "Sử dụng số điện thoại để bảo vệ giao dịch và tài khoản của bạn."
+      },
+      "changePassword": {
+        "title": "Đổi mật khẩu",
+        "description": "Đổi mật khẩu được sử dụng để đăng nhập vào tài khoản của bạn.",
+        "modalTitle": "Cập nhật mật khẩu của bạn",
+        "successTitle": "Đổi mật khẩu thành công",
+        "successDescription": "Mật khẩu của bạn đã được cập nhật thành công."
+      }
+    },
+    "notification": {
+      "title": "Cài đặt thông báo",
+      "description": "Cấu hình các tùy chọn và kênh thông báo của bạn",
+      "methods": {
+        "title": "Phương thức thông báo",
+        "description": "Chọn phương thức để nhận thông báo về giao dịch, tài khoản, v.v.",
+        "modalTitle": "Đăng ký phương thức thông báo",
+        "email": "Email",
+        "sms": "SMS"
+      },
+      "content": {
+        "title": "Nội dung thông báo",
+        "description": "Chọn nội dung bạn muốn nhận thông báo",
+        "modalTitle": "Đăng ký nội dung thông báo",
+        "transaction": "Thông báo giao dịch",
+        "order": "Thông báo khớp/hủy lệnh",
+        "balance": "Thông báo thay đổi số dư"
+      }
+    },
+    "saveChanges": "Lưu thay đổi",
+    "settingsSaved": "Cài đặt đã được lưu thành công",
+    "allSettingsSaved": "Tất cả cài đặt đều đã được cập nhật"
+  },
+  "ApiErrors": {
+    "200": "Thành công",
+    "201": "Tạo thành công",
+    "202": "Đã chấp nhận",
+    "400": "Yêu cầu không hợp lệ",
+    "401": "Chưa xác thực",
+    "402": "Yêu cầu thanh toán",
+    "403": "Bị cấm",
+    "404": "Không tìm thấy",
+    "420": "KYC chưa hoàn tất",
+    "500": "Lỗi máy chủ nội bộ",
+    "502": "Cổng xấu",
+    "503": "Dịch vụ không khả dụng",
+    "504": "Hết thời gian chờ cổng"
+  },
+
+  "Header": {
+    "notificationDropdown": {
+      "transaction": "Giao dịch",
+      "accountAlert": "Cảnh báo tài khoản",
+      "notification": "Thông báo",
+      "promotion": "Khuyến mãi",
+      "noNotificationsYet": "Chưa có thông báo nào.",
+      "noNotifications": "Không có thông báo",
+      "viewAll": "Xem tất cả thông báo",
+      "loading": "Đang tải thông báo..."
+    }
+  }
+}
